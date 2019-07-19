@@ -1,6 +1,6 @@
 # DDNS For NodeJs
 
-[https://github.com/holleworldabc/ddns-for-nodejs.git](GIT仓库)
+[GIT仓库](https://github.com/holleworldabc/ddns-for-nodejs.git)
 
 ## 引言
 DDNS For NodeJs 是使用nodejs实现的DDNS的工具，通过腾讯云API实现的动态域名解析。
